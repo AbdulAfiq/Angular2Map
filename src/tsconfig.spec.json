@@ -11,10 +11,12 @@
     ]
   },
   "files": [
-    "test.ts"
+    "test.ts",
+    "npm:angular2-google-maps/core/core.umd.js"
   ],
   "include": [
     "**/*.spec.ts",
-    "**/*.d.ts"
+    "**/*.d.ts",
+    "**/*.js"
   ]
 }
